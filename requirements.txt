@@ -3,3 +3,7 @@ scipy
 matplotlib
 pandas
 
+jupyterlab
+ipywidgets
+nbdime
+
